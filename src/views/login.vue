@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="center">
-      <h3>系统登录</h3>
+      <h3>稻草人系统登录</h3>
       <div>
         <el-input placeholder="用户名" v-model="user" clearable prefix-icon="el-icon-user-solid"></el-input>
       </div>
